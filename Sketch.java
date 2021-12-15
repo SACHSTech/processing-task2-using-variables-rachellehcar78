@@ -65,7 +65,6 @@ public class Sketch extends PApplet {
     fill(255, 238, 56);
     ellipse((float)(width/2), (float)(height/3.076923), (float)(width/10), (float)(height/16));
     
-    // hi rach
     // Stem
     stroke(87);
     fill(21, 191, 30);
